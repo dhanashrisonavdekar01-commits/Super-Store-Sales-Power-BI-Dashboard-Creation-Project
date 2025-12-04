@@ -4,4 +4,5 @@ Project Overview - Super Store is a small retail business located in the United 
 
 The goal of project is to analyse the sales data, identify demanded areas and low sales growth areas to create opportunities for Super Store to boost business growth, and to understand the sales by category, sub-category and to check yoy growth Super Stores .
 
-<img width="1175" height="728" alt="image" src="https://github.com/user-attachments/assets/4f934a52-5fb2-41ca-b89b-8d4c66c616df" />
+
+<img width="1103" height="670" alt="image" src="https://github.com/user-attachments/assets/44d3b09e-4aa7-420b-8078-ed01d2213141" />
